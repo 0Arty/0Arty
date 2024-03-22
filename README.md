@@ -22,7 +22,7 @@ Hi 👋 My name is Andrii
 ### State manager
 <p align="left">
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"><img src="https://redux-toolkit.js.org/img/redux.svg" width="40" height="40" alt="Redux-toolkit" /></a>
+<a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux-toolkit" /></a>
 </p>
 
 ### Technologies in which I have basic knowledge
