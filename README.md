@@ -20,10 +20,9 @@ Hi 👋 My name is Andrii
 </p>
 
 ### State manager
-redux | redux-toolkit
+
 <p align="left">
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux-toolkit" /></a>
+<a href="https://redux-toolkit.js.org" target="_blank" rel="noreferrer" alt="Redux-toolkit | Redux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux-toolkit" /></a>
 </p>
 
 ### Technologies in which I have basic knowledge
