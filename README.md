@@ -1,8 +1,12 @@
 Hi 👋 My name is Andrii
 =======================
-I\`m web developer
+I\`m a web developer
 ------------------
-I have been developing in the field of web development for the last 2 years. During this time, I created websites on a freelance basis and for my friends.
+I have been developing in the field of web development for the past 2 years. During this time I have been creating websites on freelance and for my friends. Also I have a couple of interesting projects that I want to realize in the future: 
+* card game 
+* analog google map.
+
+### Short information
 * 🌍  I'm based in Kyiv
 * 🚀  I'm currently working on [on a non-commercial project (just to develop skills)](http://github.com/0Arty/Agriculture-Organic)
 * 🧠  I'm learning a new framework - Next.js
