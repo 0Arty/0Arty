@@ -1,5 +1,12 @@
 Hi 👋 My name is Andrii
-=======================I\`m web developer------------------I have been developing in the field of web development for the last 2 years. During this time, I created websites on a freelance basis and for my friends.* 🌍  I'm based in Kyiv* 🚀  I'm currently working on [on a non-commercial project (just to develop skills)](http://github.com/0Arty/Agriculture-Organic)* 🧠  I'm learning a new framework - Next.js* 🤝  I'm open to collaborating on interesting projects
+=======================
+I\`m web developer
+------------------
+I have been developing in the field of web development for the last 2 years. During this time, I created websites on a freelance basis and for my friends.
+* 🌍  I'm based in Kyiv
+* 🚀  I'm currently working on [on a non-commercial project (just to develop skills)](http://github.com/0Arty/Agriculture-Organic)
+* 🧠  I'm learning a new framework - Next.js
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
