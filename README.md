@@ -16,8 +16,6 @@ I have a strong focus on clean architecture, performance, and UX quality. I work
 
 📩 Open to collaboration, full-time positions, and interesting projects.
 
-Translated with DeepL.com (free version)
-
 ### Skills
 
 ### Core technologies
