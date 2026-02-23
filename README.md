@@ -6,17 +6,6 @@ Hello! I am Andriy, a front-end JavaScript developer specializing in creating fa
 
 I have a strong focus on clean architecture, performance, and UX quality. I work with a modern stack and pay attention to details — from animations to loading optimization.
 
-🛠 Main stack:
-
-Front-end:
-Next.js, React.js, JavaScript (ES6+), HTML5, CSS3, SCSS, Redux, GSAP, i18n
-
-Back-end (for full integration and understanding of architecture):
-Node.js, Express.js, Nest.js, Prisma, Supabase
-
-Tools:
-Git, npm, Figma
-
 💼 How I can be useful:
 
 ✨ Development of modern web applications and websites
