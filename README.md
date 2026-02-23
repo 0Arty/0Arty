@@ -2,8 +2,32 @@ Hi 👋 My name is Andrii
 =======================
 I\`m a web developer
 ------------------
-I am a middle front-end developer with 4 years of experience. I am skilled in developing layouts, writing optimized code, and creating incredible animations.
-I have 1.5 years of experience working in a company and 2 years of freelance experience.
+Hello! I am Andriy, a front-end JavaScript developer specializing in creating fast, user-friendly, and technically high-quality web applications and websites. I help businesses implement interfaces that not only look good but also effectively solve user problems and scale along with the product.
+
+I have a strong focus on clean architecture, performance, and UX quality. I work with a modern stack and pay attention to details — from animations to loading optimization.
+
+🛠 Main stack:
+
+Front-end:
+Next.js, React.js, JavaScript (ES6+), HTML5, CSS3, SCSS, Redux, GSAP, i18n
+
+Back-end (for full integration and understanding of architecture):
+Node.js, Express.js, Nest.js, Prisma, Supabase
+
+Tools:
+Git, npm, Figma
+
+💼 How I can be useful:
+
+✨ Development of modern web applications and websites
+🚀 Optimizing performance and loading speed
+📱 Creating responsive and accessibility-friendly interfaces
+🎨 Implementing complex UIs, animations, and pixel-perfect layouts
+🔗 Integrating with APIs and backend services
+
+📩 Open to collaboration, full-time positions, and interesting projects.
+
+Translated with DeepL.com (free version)
 
 ### Skills
 
